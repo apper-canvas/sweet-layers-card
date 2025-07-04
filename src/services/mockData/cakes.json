@@ -1,0 +1,170 @@
+[
+  {
+    "Id": 1,
+    "name": "Classic Vanilla Birthday Cake",
+    "category": "birthday",
+    "basePrice": 45.00,
+    "description": "A timeless favorite with fluffy vanilla sponge layers, rich buttercream frosting, and your choice of decorative elements. Perfect for celebrating life's special moments.",
+    "images": [
+      "https://images.unsplash.com/photo-1578985545062-69928b1d9587?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1627308595229-7830a5c91f9f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80"
+    ],
+    "availableSizes": ["Small (6\")", "Medium (8\")", "Large (10\")", "Extra Large (12\")"],
+    "availableFlavors": ["Vanilla", "Chocolate", "Strawberry", "Funfetti"],
+    "customizable": true
+  },
+  {
+    "Id": 2,
+    "name": "Decadent Chocolate Fudge Cake",
+    "category": "birthday",
+    "basePrice": 52.00,
+    "description": "Rich, moist chocolate cake layered with creamy chocolate ganache and topped with premium chocolate curls. A chocolate lover's dream come true.",
+    "images": [
+      "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1571115764595-644a1f56a55c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80"
+    ],
+    "availableSizes": ["Small (6\")", "Medium (8\")", "Large (10\")", "Extra Large (12\")"],
+    "availableFlavors": ["Dark Chocolate", "Milk Chocolate", "White Chocolate", "Mocha"],
+    "customizable": true
+  },
+  {
+    "Id": 3,
+    "name": "Elegant Wedding Cake",
+    "category": "wedding",
+    "basePrice": 125.00,
+    "description": "A stunning three-tier wedding cake with delicate buttercream roses, elegant piping, and your choice of flavor combinations. Designed to make your special day unforgettable.",
+    "images": [
+      "https://images.unsplash.com/photo-1551024506-0bccd828d307?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1535141737124-df2d2c5e4f4d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80"
+    ],
+    "availableSizes": ["Medium (8\")", "Large (10\")", "Extra Large (12\")", "Three-Tier"],
+    "availableFlavors": ["Vanilla", "Chocolate", "Red Velvet", "Lemon", "Almond"],
+    "customizable": true
+  },
+  {
+    "Id": 4,
+    "name": "Red Velvet Delight",
+    "category": "birthday",
+    "basePrice": 48.00,
+    "description": "Velvety smooth red velvet cake with cream cheese frosting, finished with a hint of cocoa and adorned with elegant decorative touches.",
+    "images": [
+      "https://images.unsplash.com/photo-1464349095431-e9a21285b5f3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1558618047-3c8c76ca7d13?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80"
+    ],
+    "availableSizes": ["Small (6\")", "Medium (8\")", "Large (10\")", "Extra Large (12\")"],
+    "availableFlavors": ["Red Velvet", "Blue Velvet", "Pink Velvet"],
+    "customizable": true
+  },
+  {
+    "Id": 5,
+    "name": "Strawberry Shortcake",
+    "category": "birthday",
+    "basePrice": 42.00,
+    "description": "Light and airy sponge cake layered with fresh strawberries and whipped cream, topped with additional berries and a dusting of powdered sugar.",
+    "images": [
+      "https://images.unsplash.com/photo-1565958011703-44f9829ba187?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1551024506-0bccd828d307?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80"
+    ],
+    "availableSizes": ["Small (6\")", "Medium (8\")", "Large (10\")", "Extra Large (12\")"],
+    "availableFlavors": ["Strawberry", "Mixed Berry", "Peach", "Raspberry"],
+    "customizable": true
+  },
+  {
+    "Id": 6,
+    "name": "Custom Design Cake",
+    "category": "custom",
+    "basePrice": 75.00,
+    "description": "Let your imagination run wild! Our skilled bakers will create a completely custom cake tailored to your vision, theme, and taste preferences.",
+    "images": [
+      "https://images.unsplash.com/photo-1535141737124-df2d2c5e4f4d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1578985545062-69928b1d9587?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80"
+    ],
+    "availableSizes": ["Small (6\")", "Medium (8\")", "Large (10\")", "Extra Large (12\")", "Custom Size"],
+    "availableFlavors": ["Vanilla", "Chocolate", "Red Velvet", "Lemon", "Carrot", "Funfetti", "Custom Flavor"],
+    "customizable": true
+  },
+  {
+    "Id": 7,
+    "name": "Lemon Lavender Cake",
+    "category": "wedding",
+    "basePrice": 55.00,
+    "description": "Delicate lemon cake infused with organic lavender, filled with lemon curd and topped with lavender buttercream. A sophisticated choice for elegant occasions.",
+    "images": [
+      "https://images.unsplash.com/photo-1464349095431-e9a21285b5f3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1551024506-0bccd828d307?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80"
+    ],
+    "availableSizes": ["Small (6\")", "Medium (8\")", "Large (10\")", "Extra Large (12\")"],
+    "availableFlavors": ["Lemon Lavender", "Lemon", "Lavender Honey", "Earl Grey Lemon"],
+    "customizable": true
+  },
+  {
+    "Id": 8,
+    "name": "Assorted Cupcake Box",
+    "category": "cupcakes",
+    "basePrice": 24.00,
+    "description": "A delightful assortment of 12 gourmet cupcakes featuring our most popular flavors. Perfect for parties, meetings, or treating yourself.",
+    "images": [
+      "https://images.unsplash.com/photo-1587668178277-295251f900ce?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1614707267537-b85aaf00c4b7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80"
+    ],
+    "availableSizes": ["6 Cupcakes", "12 Cupcakes", "24 Cupcakes"],
+    "availableFlavors": ["Assorted", "Vanilla", "Chocolate", "Red Velvet", "Funfetti"],
+    "customizable": false
+  },
+  {
+    "Id": 9,
+    "name": "Carrot Cake Supreme",
+    "category": "birthday",
+    "basePrice": 46.00,
+    "description": "Moist carrot cake with warm spices, toasted walnuts, and cream cheese frosting. Finished with a decorative carrot and walnut garnish.",
+    "images": [
+      "https://images.unsplash.com/photo-1571115764595-644a1f56a55c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1565958011703-44f9829ba187?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80"
+    ],
+    "availableSizes": ["Small (6\")", "Medium (8\")", "Large (10\")", "Extra Large (12\")"],
+    "availableFlavors": ["Carrot", "Spiced Carrot", "Carrot Pineapple", "Carrot Coconut"],
+    "customizable": true
+  },
+  {
+    "Id": 10,
+    "name": "Funfetti Celebration Cake",
+    "category": "birthday",
+    "basePrice": 40.00,
+    "description": "Colorful and fun vanilla cake loaded with rainbow sprinkles, topped with vanilla buttercream and even more sprinkles. Perfect for kids and the young at heart.",
+    "images": [
+      "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1578985545062-69928b1d9587?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80"
+    ],
+    "availableSizes": ["Small (6\")", "Medium (8\")", "Large (10\")", "Extra Large (12\")"],
+    "availableFlavors": ["Funfetti", "Rainbow", "Confetti", "Birthday Cake"],
+    "customizable": true
+  },
+  {
+    "Id": 11,
+    "name": "Tiramisu Cake",
+    "category": "custom",
+    "basePrice": 58.00,
+    "description": "Italian-inspired coffee-soaked ladyfingers layered with mascarpone cream and dusted with cocoa powder. A sophisticated dessert for coffee lovers.",
+    "images": [
+      "https://images.unsplash.com/photo-1558618047-3c8c76ca7d13?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1464349095431-e9a21285b5f3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80"
+    ],
+    "availableSizes": ["Small (6\")", "Medium (8\")", "Large (10\")", "Extra Large (12\")"],
+    "availableFlavors": ["Tiramisu", "Espresso", "Mocha", "Cappuccino"],
+    "customizable": true
+  },
+  {
+    "Id": 12,
+    "name": "Mini Cheesecake Sampler",
+    "category": "cupcakes",
+    "basePrice": 32.00,
+    "description": "A collection of 8 mini cheesecakes in various flavors including classic New York style, chocolate, strawberry, and seasonal specialties.",
+    "images": [
+      "https://images.unsplash.com/photo-1627308595229-7830a5c91f9f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1587668178277-295251f900ce?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80"
+    ],
+    "availableSizes": ["8 Mini Cakes", "16 Mini Cakes", "24 Mini Cakes"],
+    "availableFlavors": ["Assorted", "New York Style", "Chocolate", "Strawberry", "Blueberry"],
+    "customizable": false
+  }
+]

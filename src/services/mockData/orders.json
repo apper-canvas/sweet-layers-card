@@ -1,0 +1,67 @@
+[
+  {
+    "Id": 1,
+    "items": [
+      {
+        "cakeId": 1,
+        "quantity": 1,
+        "size": "Medium (8\")",
+        "flavor": "Vanilla",
+        "customMessage": "Happy Birthday Sarah!",
+        "price": 67.50
+      }
+    ],
+    "deliveryType": "pickup",
+    "scheduledDate": "2024-01-15",
+    "scheduledTime": "14:00",
+    "customerInfo": {
+      "firstName": "John",
+      "lastName": "Smith",
+      "email": "john.smith@email.com",
+      "phone": "(555) 123-4567",
+      "address": null
+    },
+    "specialInstructions": "Please add extra sprinkles",
+    "total": 78.30,
+    "subtotal": 67.50,
+    "tax": 5.40,
+    "deliveryFee": 0,
+    "status": "confirmed",
+    "createdAt": "2024-01-10T10:30:00Z"
+  },
+  {
+    "Id": 2,
+    "items": [
+      {
+        "cakeId": 3,
+        "quantity": 1,
+        "size": "Three-Tier",
+        "flavor": "Vanilla",
+        "customMessage": "Congratulations Emma & Michael",
+        "price": 312.50
+      }
+    ],
+    "deliveryType": "delivery",
+    "scheduledDate": "2024-01-20",
+    "scheduledTime": "15:00",
+    "customerInfo": {
+      "firstName": "Emma",
+      "lastName": "Johnson",
+      "email": "emma.johnson@email.com",
+      "phone": "(555) 987-6543",
+      "address": {
+        "street": "456 Oak Avenue",
+        "city": "Sweet City",
+        "state": "CA",
+        "zipCode": "12345"
+      }
+    },
+    "specialInstructions": "Please deliver to the back entrance",
+    "total": 347.50,
+    "subtotal": 312.50,
+    "tax": 25.00,
+    "deliveryFee": 10.00,
+    "status": "confirmed",
+    "createdAt": "2024-01-12T14:15:00Z"
+  }
+]
