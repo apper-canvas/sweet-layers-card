@@ -37,7 +37,7 @@ export const cakeService = {
     return { ...cakesData[index] };
   },
   
-  async delete(id) {
+async delete(id) {
     await delay(300);
     const index = cakesData.findIndex(c => c.Id === id);
     if (index === -1) {
@@ -45,5 +45,22 @@ export const cakeService = {
     }
     cakesData.splice(index, 1);
     return { success: true };
+  },
+  
+  async getSuggestions(searchTerm) {
+    await delay(200);
+    const term = searchTerm.toLowerCase();
+    const suggestions = cakesData.filter(cake => 
+      cake.name.toLowerCase().includes(term) ||
+      cake.description.toLowerCase().includes(term) ||
+      cake.availableFlavors.some(flavor => flavor.toLowerCase().includes(term))
+    ).slice(0, 5); // Limit to 5 suggestions
+    
+    return suggestions.map(cake => ({
+      Id: cake.Id,
+      name: cake.name,
+      category: cake.category,
+      basePrice: cake.basePrice
+    }));
   }
 };
